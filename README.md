@@ -4,4 +4,5 @@
 - [Topic 2: Shell Tools and Scripting](./lecture2/README.md)
 - [Topic 3: Editor (Vim)](./lecture3/README.md)
 - [Topic 4: Data Wrangling](./lecture4/README.md)
+- [Topic 5: Command Line](./lecture5)
 
